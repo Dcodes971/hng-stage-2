@@ -52,7 +52,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/hng-stage-2">
       <div className={`app ${darkMode ? 'dark' : ''}`}>
 
         <nav className="sidebar">
