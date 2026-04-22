@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hng-stage-2/static/css/main.5d5b8a2c.css",
+    "main.js": "/hng-stage-2/static/js/main.790d877d.js",
+    "index.html": "/hng-stage-2/index.html",
+    "main.5d5b8a2c.css.map": "/hng-stage-2/static/css/main.5d5b8a2c.css.map",
+    "main.790d877d.js.map": "/hng-stage-2/static/js/main.790d877d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d5b8a2c.css",
+    "static/js/main.790d877d.js"
+  ]
+}
